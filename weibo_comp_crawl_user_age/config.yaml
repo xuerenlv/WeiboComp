@@ -1,0 +1,38 @@
+login:
+    - username: 474407250@qq.com
+      password: justfortest
+    - username: 934193889@qq.com
+      password: niuliqiangsina
+    - username: howardit@126.com
+      password: howardit@911
+    - username: chengchuan90@yahoo.com
+      password: yahoo_900119
+    - username: chengc@nlp.nju.edu.cn
+      password: justfortest
+    - username: xuerenlv@163.com
+      password: xuehongjian123
+    - username: yuzt@nlp.nju.edu.cn
+      password: weibo112233
+    - username: njunlpir@163.com
+      password: ilove2hcx
+
+
+
+
+searchdb:
+
+    dbname: second_zhuanjiyin_3_networks
+    host: 114.212.86.245
+    port: 27017
+
+proxies:
+    - ip: http://benxiaohai:1328257811@58.96.184.54:62001
+    - ip: http://benxiaohai:1328257811@58.96.184.54:62002
+    - ip: http://benxiaohai:1328257811@58.96.184.54:62003
+    - ip: http://benxiaohai:1328257811@58.96.184.54:62004
+    - ip: http://benxiaohai:1328257811@58.96.184.54:62005
+    - ip: http://benxiaohai:1328257811@58.96.184.54:62006
+    - ip: http://benxiaohai:1328257811@58.96.184.54:62007
+    - ip: http://benxiaohai:1328257811@58.96.184.54:62008
+    - ip: http://benxiaohai:1328257811@58.96.184.54:62009
+    - ip: http://benxiaohai:1328257811@58.96.184.54:62010
